@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaop\\aulaAPS\\projetoTeste\\projetoTeste.csproj": {}
+    "C:\\aps\\apsprojeto\\projetoTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaop\\aulaAPS\\projetoTeste\\projetoTeste.csproj": {
+    "C:\\aps\\apsprojeto\\projetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaop\\aulaAPS\\projetoTeste\\projetoTeste.csproj",
+        "projectUniqueName": "C:\\aps\\apsprojeto\\projetoTeste.csproj",
         "projectName": "projetoTeste",
-        "projectPath": "C:\\Users\\joaop\\aulaAPS\\projetoTeste\\projetoTeste.csproj",
-        "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaop\\aulaAPS\\projetoTeste\\obj\\",
+        "projectPath": "C:\\aps\\apsprojeto\\projetoTeste.csproj",
+        "packagesPath": "C:\\Users\\Douglas Boueri\\.nuget\\packages\\",
+        "outputPath": "C:\\aps\\apsprojeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Douglas Boueri\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
