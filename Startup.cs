@@ -31,7 +31,7 @@ namespace projetoTeste
             services.AddControllers();
 
             services.AddDbContext<BDContexto>(option =>
-                option.UseMySQL("server=localhost;port=3306;user=root;password=root;database=projeto_teste")
+                option.UseMySQL("server=localhost;port=3306;user=root;password=Goku1234;database=projeto_teste")
             );
         }
 
